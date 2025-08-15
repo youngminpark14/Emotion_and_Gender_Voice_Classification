@@ -31,4 +31,3 @@ This project implements machine learning classifiers to predict speaker gender a
 
 ## Authors
 - Noah Nielsen, Young Min Park, Dylan Murphy, Elijah Pearce, Alex Colmenar
-- Developed for SDSU CS 450: Introduction to AI
